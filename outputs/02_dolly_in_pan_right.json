@@ -1,0 +1,14 @@
+{
+  "shot": {
+    "index": 2,
+    "slug": "dolly_in_pan_right",
+    "camera_move": "Dolly In + Pan Right",
+    "prompt_hint": "simulate a gentle dolly-in with a slight pan right that reveals more of the room without inventing furniture, windows, or fixtures"
+  },
+  "source_image": "input_images/bedroom.webp",
+  "listing_title": "421 Hudson Street #213",
+  "listing_url": "https://streeteasy.com/building/the-printing-house/213?featured=1",
+  "prompt": "Create a 5-second vertical video showcasing the interior of a condo at 421 Hudson Street #213 in The Printing House, West Village, Manhattan. Preserve the original architecture and layout from each source image. Use subtle motion that works well for a social media video, dolly in + pan right to reveal more of the room without inventing furniture, windows, or fixtures.",
+  "negative_prompt": "Do not add fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Keep the scene photorealistic and faithful to the source image.",
+  "focus_notes": "Emphasize the high ceilings, architectural built-ins, southern exposure, natural light, oversized dual-pane windows with window treatments, and hardwood flooring throughout. Showcase the condo's design elements in a premium, photorealistic style."
+}

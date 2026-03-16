@@ -1,0 +1,14 @@
+{
+  "shot": {
+    "index": 5,
+    "slug": "dolly_out_pan_left",
+    "camera_move": "Dolly Out + Pan Left",
+    "prompt_hint": "simulate a gentle dolly-out with a slight pan left that broadens the scene while keeping all architecture believable"
+  },
+  "source_image": "input_images/living_room.webp",
+  "listing_title": "421 Hudson Street #213",
+  "listing_url": "https://streeteasy.com/building/the-printing-house/213?featured=1",
+  "prompt": "Create a 5-second vertical video of a modern, well-lit living room in a condo at The Printing House. Emphasize the high ceilings and architectural built-ins. Use subtle camera movement to dolly out slightly while panning left to showcase the space and natural light. Keep the scene photorealistic and faithful to the source image, preserving all original architecture and layout details.",
+  "negative_prompt": "Do not add any fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Maintain a premium and believable aesthetic.",
+  "focus_notes": "Highlight the high ceilings and architectural built-ins, showcasing the natural light from the oversized dual-pane windows with window treatments. Capture the hardwood flooring throughout the space."
+}

@@ -1,0 +1,14 @@
+{
+  "shot": {
+    "index": 1,
+    "slug": "orbital_left",
+    "camera_move": "Orbital Left",
+    "prompt_hint": "simulate a subtle left orbital move around the focal point while keeping walls, windows, cabinetry, and other architectural features stable"
+  },
+  "source_image": "input_images/bathroom.webp",
+  "listing_title": "421 Hudson Street #213",
+  "listing_url": "https://streeteasy.com/building/the-printing-house/213?featured=1",
+  "prompt": "Create a 5-second vertical video of a modern bathroom in The Printing House at 421 Hudson Street #213. Use natural light to highlight the premium interior design, and showcase the high ceilings, architectural built-ins, and southern exposure. Employ subtle camera movement that simulates an orbital left motion around the focal point while preserving the original architecture and layout.",
+  "negative_prompt": "Avoid adding fictional windows, cabinets, furniture, doors, fixtures, or decor. Do not create hallucinated architecture or warped geometry. Refrain from including extra furniture, duplicate objects, text overlays, flicker, morphing, people, watermarks.",
+  "focus_notes": "Focus on the bathroom's modern design elements such as the large mirror, dual-pane windows, and sleek fixtures. Highlight the natural light entering through the windows and the high ceilings with architectural built-ins."
+}

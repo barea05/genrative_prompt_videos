@@ -1,0 +1,84 @@
+{
+  "shots": [
+    {
+      "shot": {
+        "index": 1,
+        "slug": "orbital_left",
+        "camera_move": "Orbital Left",
+        "prompt_hint": "simulate a subtle left orbital move around the focal point while keeping walls, windows, cabinetry, and other architectural features stable"
+      },
+      "source_image": "input_images/bathroom.webp",
+      "prompt_file": "outputs/01_orbital_left.json",
+      "prompt": "Create a 5-second vertical video of a modern bathroom in The Printing House at 421 Hudson Street #213. Use natural light to highlight the premium interior design, and showcase the high ceilings, architectural built-ins, and southern exposure. Employ subtle camera movement that simulates an orbital left motion around the focal point while preserving the original architecture and layout.",
+      "negative_prompt": "Avoid adding fictional windows, cabinets, furniture, doors, fixtures, or decor. Do not create hallucinated architecture or warped geometry. Refrain from including extra furniture, duplicate objects, text overlays, flicker, morphing, people, watermarks.",
+      "focus_notes": "Focus on the bathroom's modern design elements such as the large mirror, dual-pane windows, and sleek fixtures. Highlight the natural light entering through the windows and the high ceilings with architectural built-ins.",
+      "generation_mode": "local_fallback_video",
+      "video_file": "outputs/01_orbital_left.mp4",
+      "video_url": "file:///home/dhivakar/AI_project/outputs/01_orbital_left.mp4"
+    },
+    {
+      "shot": {
+        "index": 2,
+        "slug": "dolly_in_pan_right",
+        "camera_move": "Dolly In + Pan Right",
+        "prompt_hint": "simulate a gentle dolly-in with a slight pan right that reveals more of the room without inventing furniture, windows, or fixtures"
+      },
+      "source_image": "input_images/bedroom.webp",
+      "prompt_file": "outputs/02_dolly_in_pan_right.json",
+      "prompt": "Create a 5-second vertical video showcasing the interior of a condo at 421 Hudson Street #213 in The Printing House, West Village, Manhattan. Preserve the original architecture and layout from each source image. Use subtle motion that works well for a social media video, dolly in + pan right to reveal more of the room without inventing furniture, windows, or fixtures.",
+      "negative_prompt": "Do not add fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Keep the scene photorealistic and faithful to the source image.",
+      "focus_notes": "Emphasize the high ceilings, architectural built-ins, southern exposure, natural light, oversized dual-pane windows with window treatments, and hardwood flooring throughout. Showcase the condo's design elements in a premium, photorealistic style.",
+      "generation_mode": "local_fallback_video",
+      "video_file": "outputs/02_dolly_in_pan_right.mp4",
+      "video_url": "file:///home/dhivakar/AI_project/outputs/02_dolly_in_pan_right.mp4"
+    },
+    {
+      "shot": {
+        "index": 3,
+        "slug": "truck_right",
+        "camera_move": "Truck Right",
+        "prompt_hint": "simulate a smooth truck-right move that preserves perspective and maintains accurate room geometry"
+      },
+      "source_image": "input_images/building.webp",
+      "prompt_file": "outputs/03_truck_right.json",
+      "prompt": "Create a 5-second vertical video showcasing the interior of a condo at 421 Hudson Street #213, The Printing House in West Village, Manhattan. Preserve the original architecture and layout, focusing on the high ceilings, architectural built-ins, southern exposure, natural light, oversized dual-pane windows with window treatments, and hardwood flooring throughout. Use subtle motion that complements the room's perspective and maintains accurate room geometry.",
+      "negative_prompt": "Do not add fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Maintain a photorealistic and faithful representation of the source image.",
+      "focus_notes": "Emphasize the condo's unique features such as the high ceilings, architectural built-ins, southern exposure, natural light, oversized dual-pane windows with window treatments, and hardwood flooring throughout. Highlight the room's layout and perspective while maintaining accurate room geometry.",
+      "generation_mode": "local_fallback_video",
+      "video_file": "outputs/03_truck_right.mp4",
+      "video_url": "file:///home/dhivakar/AI_project/outputs/03_truck_right.mp4"
+    },
+    {
+      "shot": {
+        "index": 4,
+        "slug": "pedestal_up",
+        "camera_move": "Pedestal Up",
+        "prompt_hint": "simulate a slow pedestal-up move that emphasizes ceiling height, light, and vertical composition without hallucinating details"
+      },
+      "source_image": "input_images/diningroom.webp",
+      "prompt_file": "outputs/04_pedestal_up.json",
+      "prompt": "Create a 5-second vertical video of a modern condo interior at 421 Hudson Street #213, The Printing House, West Village, Manhattan. Emphasize the high ceilings, natural light, and architectural built-ins. Use subtle motion to highlight the ceiling height, light, and vertical composition without inventing windows, cabinets, furniture, doors, fixtures, or decor. Keep the scene photorealistic and faithful to the source image.",
+      "negative_prompt": "Do not add fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Maintain a premium and believable cinematography style.",
+      "focus_notes": "Preserve the original architecture and layout from each source image. Highlight the high ceilings, natural light, and architectural built-ins. Use subtle motion to emphasize vertical composition without inventing details.",
+      "generation_mode": "local_fallback_video",
+      "video_file": "outputs/04_pedestal_up.mp4",
+      "video_url": "file:///home/dhivakar/AI_project/outputs/04_pedestal_up.mp4"
+    },
+    {
+      "shot": {
+        "index": 5,
+        "slug": "dolly_out_pan_left",
+        "camera_move": "Dolly Out + Pan Left",
+        "prompt_hint": "simulate a gentle dolly-out with a slight pan left that broadens the scene while keeping all architecture believable"
+      },
+      "source_image": "input_images/living_room.webp",
+      "prompt_file": "outputs/05_dolly_out_pan_left.json",
+      "prompt": "Create a 5-second vertical video of a modern, well-lit living room in a condo at The Printing House. Emphasize the high ceilings and architectural built-ins. Use subtle camera movement to dolly out slightly while panning left to showcase the space and natural light. Keep the scene photorealistic and faithful to the source image, preserving all original architecture and layout details.",
+      "negative_prompt": "Do not add any fictional windows, cabinets, furniture, doors, fixtures, or decor. Avoid hallucinated architecture, warped geometry, extra furniture, duplicate objects, text overlays, flicker, morphing, people, or watermarks. Maintain a premium and believable aesthetic.",
+      "focus_notes": "Highlight the high ceilings and architectural built-ins, showcasing the natural light from the oversized dual-pane windows with window treatments. Capture the hardwood flooring throughout the space.",
+      "generation_mode": "local_fallback_video",
+      "video_file": "outputs/05_dolly_out_pan_left.mp4",
+      "video_url": "file:///home/dhivakar/AI_project/outputs/05_dolly_out_pan_left.mp4"
+    }
+  ]
+}
